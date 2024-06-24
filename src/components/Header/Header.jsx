@@ -69,7 +69,7 @@ const Header = () => {
                 </Link>
 
                 <a 
-                    href="https://github.com/ritankarsaha" 
+                    href="https://github.com/ritankarsaha/Codeforces-Data-Visualiser" 
                     target="_blank" 
                     rel="noopener noreferrer" 
                     className={classes.githubLink}
